@@ -11,7 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230518.0",
-    "wrangler": "latest"
+    "wrangler": "^3.109.0"
   },
   "dependencies": {
     "dns-packet": "^5.6.0",
