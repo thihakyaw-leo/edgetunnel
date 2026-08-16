@@ -7,7 +7,7 @@
     "deploy": "wrangler publish",
     "dev-vless": "wrangler dev src/worker-vless.js"
   },
-  "author": "",
+  "author": "Leo Smitt",
   "license": "ISC",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230518.0",
