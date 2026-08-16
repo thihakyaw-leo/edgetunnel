@@ -13,5 +13,6 @@
 		"types": ["@cloudflare/workers-types"]
 	},
 	"include": ["src"],
-	"exclude": ["node_modules", "dist", "test"]
+	"exclude": ["node_modules", "dist", "test"],
+	"types": ["./jsconfig.json"]
 }
